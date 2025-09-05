@@ -31,3 +31,5 @@ quadratic_example(arr)
 #Viết một hàm tính tổng các phần tử mảng
 def total(arr):
     return sum(arr)
+
+# ass
